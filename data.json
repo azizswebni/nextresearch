@@ -1,0 +1,36 @@
+{
+    "center": {
+        "LandingPage": [
+            "<h1>Welcome<h1>",
+            "<center>Hello world<center>"
+        ],
+        "News": [
+            "<li>Cloud Performance Comparison</li>",
+            "<li>Cloud Performance Comparison</li>",
+            "<li>Cloud Performance Comparison</li>",
+            "<li>Cloud Performance Comparison</li>",
+            "<li>Cloud Performance Comparison</li>"
+        ],
+        "Projects": [
+            "<li>Cloud Performance Comparison</li>",
+            "<li>Cloud Performance Comparison</li>",
+            "<li>Cloud Performance Comparison</li>"
+        ],
+        "Clients": [
+            "<li>bank</li>",
+            "<li>health care</li>"
+        ],
+        "Teams": [
+            "<li>Richard (batman)DevOps, Cybersecurity, Kubernetes</li>",
+            "<li>Desmond DevOps Central</li>",
+            "<li>Mangash DevOps Senior Engineer</li>",
+            "<li>Erich (EJ) Architect</li>"
+        ],
+        "Links": [
+            " <li>Links Considering moinmo.in, Splunk, Nagios & Spotinst</li><li><a href ='https://www.youtube.com/watch?v=kYxLdctzyjE' id='yt-link'>Python Debt</a></li><li><a href='https://www.youtube.com/watch?v=UiFxZupTKB0' id='yt-link'>Starting on ECS</a></li><li><a href='https://www.youtube.com/watch?v=kOa_llowQ1c&t=295s' id='yt-link'>Kubernetes Easy</a></li>"
+        ],
+        "Contact": [
+            ""
+        ]
+    }
+}

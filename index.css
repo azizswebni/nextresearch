@@ -1,0 +1,19 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10%;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+align-items: flex-end;
+}
+#btn{
+    margin: 10%;
+    width: auto;
+}
+
